@@ -12,7 +12,7 @@ Rest AI Projects You can Find below
 <!--START_PROJECTS_LIST-->
 ## 🚀 Featured Projects
 
-_No projects found with the specified tags yet. Tag your repos with `rag`, `llm`, `showcase`, or `ai` to display them here! 🚀_
+_No projects found with the specified tags yet. Tag your repos with `rag`, `lln`, `showcase`, or `ai` to display them here! 🚀_
 
 <!--END_PROJECTS_LIST-->
 
