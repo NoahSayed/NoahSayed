@@ -124,7 +124,7 @@ Rest AI Projects You can Find below
 
 ## 📂 All Projects
 
-<p align="center"><i>Everything else I've built, from first websites to full-stack apps — 27 repositories and counting.</i></p>
+<p align="center"><i>Everything else I've built, from first websites to full-stack apps — 25 repositories and counting.</i></p>
 
 <table>
 <tr>
@@ -141,16 +141,6 @@ Rest AI Projects You can Find below
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/musicplayer"><img src="https://opengraph.githubassets.com/1/NoahSayed/musicplayer" alt="musicplayer" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/musicplayer"><b>musicplayer</b></a>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/tanyatodo"><img src="https://opengraph.githubassets.com/1/NoahSayed/tanyatodo" alt="tanyatodo" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/tanyatodo"><b>tanyatodo</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/tanuproject"><img src="https://opengraph.githubassets.com/1/NoahSayed/tanuproject" alt="tanuproject" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/tanuproject"><b>tanuproject</b></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/amazon-clone-for-client"><img src="https://opengraph.githubassets.com/1/NoahSayed/amazon-clone-for-client" alt="amazon-clone-for-client" width="100%"></a>
