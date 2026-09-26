@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="banner.gif" alt="Noah Sayed Header Banner" width="100%">
+<img src="banner-name.gif" alt="Noah Sayed Header Banner" width="100%">
 
 <h1 align="center">👋 Heyoooo! I'm Noah Sayed</h1>
 <h3 align="center">💻 Full-Stack Developer | AI Engineer | Multi-Agent Architect</h3>
