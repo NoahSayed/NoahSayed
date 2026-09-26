@@ -124,19 +124,9 @@ Rest AI Projects You can Find below
 
 ## 📂 All Projects
 
-<p align="center"><i>Everything else I've built, from first websites to full-stack apps — 25 repositories and counting.</i></p>
+<p align="center"><i>Everything else I've built, from first websites to full-stack apps — 20 repositories and counting.</i></p>
 
 <table>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/SSSSSSSSS"><img src="https://opengraph.githubassets.com/1/NoahSayed/SSSSSSSSS" alt="SSSSSSSSS" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/SSSSSSSSS"><b>SSSSSSSSS</b></a>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/a"><img src="https://opengraph.githubassets.com/1/NoahSayed/a" alt="a" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/a"><b>a</b></a>
-</td>
-</tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/musicplayer"><img src="https://opengraph.githubassets.com/1/NoahSayed/musicplayer" alt="musicplayer" width="100%"></a>
@@ -159,22 +149,12 @@ Rest AI Projects You can Find below
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/IPPP"><img src="https://opengraph.githubassets.com/1/NoahSayed/IPPP" alt="IPPP" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/IPPP"><b>IPPP</b></a>
-</td>
-<td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/IP-LOCATOR"><img src="https://opengraph.githubassets.com/1/NoahSayed/IP-LOCATOR" alt="IP-LOCATOR" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/IP-LOCATOR"><b>IP-LOCATOR</b></a>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/IpLocator"><img src="https://opengraph.githubassets.com/1/NoahSayed/IpLocator" alt="IpLocator" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/IpLocator"><b>IpLocator</b></a>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/v"><img src="https://opengraph.githubassets.com/1/NoahSayed/v" alt="v" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/v"><b>v</b></a>
 </td>
 </tr>
 <tr>
@@ -223,36 +203,29 @@ Rest AI Projects You can Find below
 <br><a href="https://github.com/NoahSayed/JavaSQuiz"><b>JavaSQuiz</b></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/NoahSayed/Noah-Failure"><img src="https://opengraph.githubassets.com/1/NoahSayed/Noah-Failure" alt="Noah-Failure" width="100%"></a>
-<br><a href="https://github.com/NoahSayed/Noah-Failure"><b>Noah-Failure</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/timesite"><img src="https://opengraph.githubassets.com/1/NoahSayed/timesite" alt="timesite" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/timesite"><b>timesite</b></a>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/AInotes-react"><img src="https://opengraph.githubassets.com/1/NoahSayed/AInotes-react" alt="AInotes-react" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/AInotes-react"><b>AInotes-react</b></a>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/cookingnew"><img src="https://opengraph.githubassets.com/1/NoahSayed/cookingnew" alt="cookingnew" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/cookingnew"><b>cookingnew</b></a>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/Gui-based-game-"><img src="https://opengraph.githubassets.com/1/NoahSayed/Gui-based-game-" alt="Gui-based-game-" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/Gui-based-game-"><b>Gui-based-game-</b></a>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/NoahSayed/irst-Website-On-Github-5-years-ago"><img src="https://opengraph.githubassets.com/1/NoahSayed/irst-Website-On-Github-5-years-ago" alt="irst-Website-On-Github-5-years-ago" width="100%"></a>
 <br><a href="https://github.com/NoahSayed/irst-Website-On-Github-5-years-ago"><b>irst-Website-On-Github-5-years-ago</b></a>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
