@@ -263,7 +263,7 @@ Full-Stack AI Engineer based in Dubai, UAE. I build React / Next.js web apps and
 ## 📫 Reach Me
 - **Email:** noahsayed44@gmail.com  
 - **GitHub:** https://github.com/NoahSayed  
-- **Location:** Dubai, UAE
+
 
 ---
 
